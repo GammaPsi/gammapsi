@@ -1,1 +1,1 @@
-# gammapsi
+# GammaPsi
